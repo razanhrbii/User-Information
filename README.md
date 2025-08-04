@@ -30,8 +30,8 @@ This project is a simple web application that allows users to:
  • Data is stored in the MySQL table userdata
 
 ## Requirements
- • XAMPP
- • Basic knowledge of HTML, CSS, JavaScript, PHP, MySQL.
+ - XAMPP
+ - Basic knowledge of HTML, CSS, JavaScript, PHP, MySQL.
 
 ## Author
 Razan Alharbi — Trainee @ Smart Methods
