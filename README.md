@@ -34,5 +34,5 @@ This project is a simple web application that allows users to:
  - Basic knowledge of HTML, CSS, JavaScript, PHP, MySQL.
 
 ## Author
-Razan Alharbi — Trainee @ Smart Methods
-Student of IT — Qassim University
+- Razan Alharbi — Trainee @ Smart Methods
+- Student of IT — Qassim University
